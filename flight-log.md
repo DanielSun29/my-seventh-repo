@@ -7,8 +7,8 @@ Question: Which design flies farther in these fictional workshop data?
 | Dart | 3, 4, 4, 5, 9 | ___ | ___ |
 | Glider | 4, 5, 6, 6, 7 | ___ | ___ |
 
-My finding: [Which wins for a typical flight? Which wins for a record? Cite two numbers.]
+My finding: The Glider has the most wins in comparison while obtaining a higher median(6>4) and mean.
 
-My method: [How did you find the middle flight?]
+My method: Finding median
 
-One thing I would test next: [Your idea and why.]
+One thing I would test next: Test conditions for the odd data for dart(9) to eliminate human error
